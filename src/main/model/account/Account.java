@@ -2,8 +2,6 @@ package src.main.model.account;
 
 import java.text.DecimalFormat;
 
-// Bank Management 1: https://www.learnthepart.com/course/2dfda34d-6bbc-4bd5-8f45-d5999de2f514/20e0c341-e89b-479c-9c54-c9f5797dafaa
-
 // Parent Class for Chequing, Savings and Loan Classes.
 public abstract class Account {
 
