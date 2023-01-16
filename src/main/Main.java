@@ -177,12 +177,11 @@ public class Main {
      * 
      * @param id (String)
      * 
-     * Inside the function
-     * 1. Print: \t\t\t\t TRANSACTION HISTORY\n\t
+     * Inside the function:
+     * 1. Prints header for transaction history.
      * 2. Print every transaction that corresponds to the id. (Waits 300 milliseconds before printing the next one)
-     *    - Use this format "\t"+transaction+"\n"
-     * 3. Print: \n\t\t\t\t\tAFTER TAX\n
-     * 4. Print: "\t" + account that corresponds to id +"\n\n\n\n"
+     * 3. Prints header for account summary:
+     * 4. Prints account information after executing applicable transactions and tax deductions.
      * 
      */
 
