@@ -13,7 +13,7 @@ import src.main.model.account.Account;
 
 public class Main {
 
-   static String ACCOUNTS_FILE = "src/main/data/accounts.txt";            
+   static String ACCOUNTS_FILE = "src/main/data/accounts.txt";
    static String TRANSACTIONS_FILE = "src/main/data/transactions.txt";
 
    static Bank bank = new Bank();
